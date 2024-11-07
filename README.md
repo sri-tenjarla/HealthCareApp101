@@ -1,2 +1,5 @@
-# HealthCareApp101
-This is a healthCare App setup on AWS
+# AWS Cloud setup
+# Functions
+# Application Load Balancer
+# DynamoDB
+# S3 Buckets
